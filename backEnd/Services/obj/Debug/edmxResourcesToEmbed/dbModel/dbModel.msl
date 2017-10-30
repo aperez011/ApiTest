@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+  <Alias Key="Model" Value="dbModel" />
+  <Alias Key="Target" Value="dbModel.Store" />
+  <EntityContainerMapping CdmEntityContainer="dbModelContainer" StorageEntityContainer="dbModelStoreContainer">
+    <EntitySetMapping Name="ProvinciaMunicipio">
+      <EntityTypeMapping TypeName="dbModel.ProvinciaMunicipio">
+        <MappingFragment StoreEntitySet="ProvinciaMunicipio">
+          <ScalarProperty Name="Municipio" ColumnName="Municipio" />
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="gid" ColumnName="gid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
