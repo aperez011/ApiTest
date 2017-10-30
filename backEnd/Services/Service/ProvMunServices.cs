@@ -19,9 +19,16 @@ namespace Services.Service
         public ProvMunServices()
         {
             context = new dbModelContainer();
-            if (context.Database.Connection.State == ConnectionState.Closed)
+            try
             {
-                context.Database.Connection.Open();
+                if (context.Database.Connection.State == ConnectionState.Closed)
+                {
+                    context.Database.Connection.Open();
+                }
+            }
+            catch (Exception ex)
+            {
+                string t = ex.Message;
             }
         }
 

@@ -21,3 +21,14 @@ C:\Users\angel.perez\Desktop\TestMOPC\AngelPerez_test\backEnd\webApi\Services\bi
 C:\Users\angel.perez\Desktop\TestMOPC\AngelPerez_test\backEnd\webApi\Services\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\angel.perez\Desktop\TestMOPC\AngelPerez_test\backEnd\webApi\Services\bin\Debug\EntityFramework.xml
 C:\Users\angel.perez\Desktop\TestMOPC\AngelPerez_test\backEnd\webApi\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\SourceCode\Api\backEnd\Services\bin\Debug\Services.dll.config
+C:\SourceCode\Api\backEnd\Services\bin\Debug\Services.dll
+C:\SourceCode\Api\backEnd\Services\bin\Debug\Services.pdb
+C:\SourceCode\Api\backEnd\Services\bin\Debug\EntityFramework.dll
+C:\SourceCode\Api\backEnd\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\SourceCode\Api\backEnd\Services\bin\Debug\EntityFramework.xml
+C:\SourceCode\Api\backEnd\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\SourceCode\Api\backEnd\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\SourceCode\Api\backEnd\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\SourceCode\Api\backEnd\Services\obj\Debug\Services.dll
+C:\SourceCode\Api\backEnd\Services\obj\Debug\Services.pdb

@@ -97,7 +97,11 @@
     <Content Include="App_Data\dbModel\dbLocal_log.ldf">
       <DependentUpon>dbLocal.mdf</DependentUpon>
     </Content>
+    <Content Include="css\bundle.css" />
+    <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
+    <Content Include="scripts\bundle.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -119,6 +123,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
